@@ -122,7 +122,7 @@ class VehiculoController extends Controller {
                 )
                 ->where(
                         [
-                            ['vehiculo.id', '>', 1],
+                            ['vehiculo.id_vehiculo', '>', 1],
                         ]
                 )
                 ->get();
