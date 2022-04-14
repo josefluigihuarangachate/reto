@@ -1,0 +1,8 @@
+Los verbos HTTP representan acciones:
+------------------------------------------------------
+En las API RESTful, usamos los verbos HTTP como acciones y los ENDPONT son los recursos sobre los que se actúa. Usaremos los verbos HTTP por su significado semántico:
+
+GET: recuperar recursos
+POST: crear recursos
+PUT: actualizar recursos
+DELETE: eliminar recursos
